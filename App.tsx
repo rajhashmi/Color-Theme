@@ -43,13 +43,13 @@ const styles = StyleSheet.create({
     justifyContent: "center"
   },
   actionBtn:{
-    borderRadius: 12,
+    borderRadius: 10,
     backgroundColor: "#6A1S4D",
-    paddingVertical: 10,
-    paddingHorizontal: 40
+    paddingVertical: 12,
+    paddingHorizontal: 45
   },
   actionBtnTxt:{
-    fontSize: 24,
+    fontSize: 22,
       color: "#fffffff",
       textTransform: "uppercase"
   }
